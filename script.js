@@ -2,12 +2,12 @@
 const quizData = [
     {
         question: "What is the capital of France?",
-        options: ["Berlin", "Madrid", "Paris", "Rome"],
+        options: ["London", "Madrid", "Paris", "Rome"],
         answer: 2, // index of correct answer
     },
     {
         question: "Which planet is known as the Red Planet?",
-        options: ["Earth", "Mars", "Jupiter", "Venus"],
+        options: ["Earth", "Mars", "Pluto", "Venus"],
         answer: 1,
     },
     {
